@@ -154,6 +154,27 @@ ul {
 }
 
 .button-draw img {
+    margin-right: 10px;
+}
+
+.button-draw:hover {
+    background-color: var(--color-button-hover);
+}
+
+/* Botón de reiniciar título */
+.button-draw1 {
+    display: flex;
+    align-items: center;
+    margin-top: 29px;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 10px 40px;
+    color: var(--color-black);
+    background-color: mediumspringgreen;
+    font-size: 16px;
+}
+
+.button-draw1 img {
     margin-right: 40px;
 }
 

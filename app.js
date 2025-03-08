@@ -47,3 +47,10 @@ function sortearAmigo() {
         return;
     }
 }
+
+function reinicio() {
+    listaDeAmigos =[];
+    actualizarListaAmigos('listaAmigos',listaDeAmigos);
+    let resultadoDeReinicio = document.getElementById('resultado')
+    resultadoDeReinicio.innerHTML = '';
+}
