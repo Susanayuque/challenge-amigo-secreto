@@ -30,5 +30,5 @@ Los pasos que se siguieron para desarrollar este proyecto fueron los siguientes:
 - Susan Ayuque
 
 >[!IMPORTANT]
->Puedes encontrar este proyecto en el siguiente link: <https://github.com/Susanayuque/challenge-amigo-secreto.git> .
+>Puedes encontrar este proyecto en el siguiente link: <https://susanayuque.github.io/challenge-amigo-secreto/> .
 
