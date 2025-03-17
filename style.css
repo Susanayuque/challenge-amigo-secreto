@@ -185,7 +185,7 @@ ul {
 @media (max-width:1170px){
     .header-banner{
         flex-direction: column-reverse;
-        padding: 5%;
+        padding: 12%;
     }
 
     .main-title{
